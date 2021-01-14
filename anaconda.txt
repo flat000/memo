@@ -1,0 +1,10 @@
+Anaconda Prompt を管理者で実行
+
+Anaconda本体をアップデート
+conda update -n base conda
+
+Anacondaのパッケージをアップデート
+conda update --all
+
+The environment is inconsistent...の警告が出た時
+conda install anaconda

@@ -1,0 +1,15 @@
+git初期設定
+git init
+gitステージに追加
+git add
+gitコミット
+git commit -m "ここにメッセージを記入する"
+git切り替え
+git checkout XXXXXX
+gitブランチ作成
+git branch XXXXX
+gitブランチ削除
+git branch -d XXXXXX
+githubにレポジトリをプッシュ
+git remote add github https://XXXXXX
+git push -u github master
